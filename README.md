@@ -1,3 +1,4 @@
+![logo](https://github.com/JeewanGiri/JeewanGiri/blob/main/logo.mp4)
 <h1 align="center">Hi 👋, I'm Jeewan Giri</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2NyAe_XccA5T4RQFI5qmVh&ust=1681971715165000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCdjYintf4CFQAAAAAdAAAAABAN"
