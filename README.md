@@ -4,7 +4,7 @@
 <p align="center">Hi, I'm a six semester student and frontend developer with a passion for creating user-friendly and engaging websites. I have <br>experience working with HTML, CSS, and JavaScript, as well as i am going to engage with frontend frameworks such as React. I'm comfortabely<br> learning with desigining and developing alike to bring projects, and I enjoy exploring new technologies to improve my skills and stay up to date with technology. Whether it's building a custom component or optimizing a website's performance, I'm always up for a challenge and <br>love finding creative solutions to complex problems.</p>
 <img  src="https://www.facebook.com/jiwangiri.jiwangiri"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewangiri&label=Profile%20views&color=0e75b6&style=flat" alt="jeewangiri" /> </p><br>
+<p align="left"> <img src="https://cdn.vectorstock.com/i/1000x1000/24/35/man-using-a-desktop-computer-vector-19162435.webp" /> </p><br>
 
 - 📫 You can contact me:<br><b>Email:<b> **jeewangiri123456@gmail.com**
 <br><br>
