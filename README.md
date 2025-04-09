@@ -30,22 +30,53 @@
 </p>
 
 ---
-
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> HTML</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> CSS</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> React</a>&nbsp;
-  <a href="#"><img src="https://avatars.githubusercontent.com/u/83793598?s=200&v=4" alt="Mantine UI" width="40" height="40"/> Mantine UI</a>&nbsp;
-  <a href="#"><img src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="Ant Design" width="40" height="40"/> Ant Design</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-horizontal.svg" alt="TanStack Query" width="100" height="30"/> TanStack Query</a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/TanStack/table/main/media/repo-header-light.png" alt="TanStack Table" width="100" height="30"/> TanStack Table</a>&nbsp;
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+      <br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+      <br/>React
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/93213644?s=200&v=4" width="40" height="40" />
+      <br/>Mantine UI
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/ant-design.png" width="40" height="40" />
+      <br/>Ant Design
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="40" height="40" />
+      <br/>TanStack Query
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="40" height="40" />
+      <br/>TanStack Table
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+      <br/>HTML5
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+      <br/>CSS3
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+      <br/>JavaScript
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 📊 GitHub Stats (Compact View)
 
