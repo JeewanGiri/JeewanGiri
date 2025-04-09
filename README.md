@@ -111,6 +111,6 @@
 
 ### 🚀 GitHub Activity
 
-<p align="center">
+
 [![Jeewan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeewangiri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+
