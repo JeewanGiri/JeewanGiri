@@ -43,33 +43,47 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  
+  <!-- Mantine UI -->
   <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/93213644?s=200&v=4" alt="mantine" width="40" height="40"/>
   </a>
+  
+  <!-- Ant Design (using a reliable CDN icon) -->
   <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ant_Design_logo.svg" alt="ant design" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/ant-design.png" alt="ant design" width="40" height="40"/>
   </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="react query" width="40" height="40"/>
+  
+  <!-- TanStack (for Table & Query) -->
+  <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="tanstack" width="40" height="40"/>
   </a>
-  <a href="https://tanstack.com/table/latest" target="_blank" rel="noreferrer">
-    <img src="https://tanstack.com/_next/image?url=%2Fimages%2Ftanstack-logo-filled.svg&w=384&q=75" alt="tanstack table" width="40" height="40"/>
-  </a>
+  
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
+  
+  <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
+  
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+</p>
+
 </p>
 
 ---
