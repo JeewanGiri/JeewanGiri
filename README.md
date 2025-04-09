@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jeewan Giri</h1>
 <h3 align="center">A Frontend Developer passionate about building modern, user-friendly web applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/IEV7H2k.png" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/JeewanGiri/JeewanGiri/main/coding-image.png" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jeewangiri&label=Profile%20views&color=0e75b6&style=flat" alt="jeewangiri" />
