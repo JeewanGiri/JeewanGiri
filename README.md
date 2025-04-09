@@ -112,5 +112,5 @@
 ### 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jeewangiri&theme=react-dark" alt="activity graph" />
+[![Jeewan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeewangiri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
