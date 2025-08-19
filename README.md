@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/JeewanGiri/JeewanGiri/blob/main/%2B977-9849127569.png](https://github.com/JeewanGiri/JeewanGiri/blob/main/banner.png)" width="100%" alt="Banner" />
+  <img src="https://github.com/JeewanGiri/JeewanGiri/blob/main/banner.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jeewan Giri</h1>
