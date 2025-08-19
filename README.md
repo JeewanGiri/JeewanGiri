@@ -77,11 +77,12 @@
 ---
 
 
+
 ### 📊 GitHub Stats (Compact View)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeewangiri&show_icons=true&theme=default&hide_title=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeewangiri&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeewangiri&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeewangiri&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -89,7 +90,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeewangiri&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeewangiri&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -97,5 +98,5 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeewangiri&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeewangiri&theme=radical" alt="GitHub Activity Graph" />
 </p>
