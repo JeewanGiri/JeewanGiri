@@ -4,15 +4,22 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jeewan Giri</h1>
-<h3 align="center">A Frontend Developer passionate about building modern, user-friendly web applications</h3>
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeewangiri&label=Profile%20views&color=0e75b6&style=flat" alt="jeewangiri" />
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Scalable+UI" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Scalable+UI" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Frontend+Developer" />
+  </picture>
 </p>
 
 ---
-
+### 🧑‍💻 About Me
 - 👨‍💻 I'm focused on crafting elegant UI and scalable React applications.
 - 🛠️ I specialize in **TypeScript**, **React**, and advanced tools like **Mantine UI**, **Ant Design**, **TanStack Table**, and **TanStack Query**.
 - 🚀 I love learning new frameworks and turning complex problems into simple, beautiful solutions.
